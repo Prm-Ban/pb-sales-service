@@ -35,7 +35,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8761/eureka/
 
-#Setting logging levels
+#Setting logging levels for logger
 logging:
   level:
     com.netflix: WARN
